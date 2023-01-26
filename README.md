@@ -7,10 +7,10 @@ Youtube clone in which you can search and watch videos, see more information abo
 
 
 ### Built With
-* [![React][React.js]]
-* [![MUI][MUI]]
-* [![Vite][Vite.js]]
-* [![React-router-dom][React-router-dom]]
+* [React.js]
+* [MUI]
+* [Vite.js]]
+* [React-router-dom]
 * Axios
 * React-player
 
