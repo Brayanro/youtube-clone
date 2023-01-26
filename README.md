@@ -7,10 +7,10 @@ Youtube clone in which you can search and watch videos, see more information abo
 
 
 ### Built With
-* [React.js]
-* [MUI]
-* [Vite.js]]
-* [React-router-dom]
+* <img alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+* <img alt='MUI' src='https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white'>
+* <img alt='Vite' src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E'>
+* <img alt='React-router-dom' src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
 * Axios
 * React-player
 
@@ -32,9 +32,3 @@ Run proyect in development
 
 ## Contact
 (mailto:brayan7890123@gmail.com)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[React.js]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[MUI]:https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white
-[Vite.js]:https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
-[React-router-dom]:https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
